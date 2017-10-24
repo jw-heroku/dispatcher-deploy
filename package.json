@@ -1,0 +1,13 @@
+{
+  "name": "taskrunner-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "main": "express-server.js",
+  "author": "Justin Woolley",
+  "dependencies": {
+    "express": "~4.13.1"
+  },
+  "engines": {
+    "node": "8.7.0"
+  }
+}
